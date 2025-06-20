@@ -5,6 +5,7 @@ This is a simple PHP-based CRUD application to manage a product list with commen
 ## 📁 Project Structure
 
 crud/
+
 ├── config/
 
 │ └── connect.php # Database connection
