@@ -106,3 +106,10 @@ Input is escaped using mysqli_real_escape_string to prevent SQL injection.
 Minimal CSS for table styling.
 
 You can extend this app with login/auth, validation, and pagination.
+
+![image](https://github.com/user-attachments/assets/7a37d0ef-8e1d-4275-bb3a-9629eba68900)
+![image](https://github.com/user-attachments/assets/ce1d12f5-4fe9-491b-a78c-a988eb426391)
+![image](https://github.com/user-attachments/assets/e1e0a3bf-68ca-4dca-87c7-c3a0d9836731)
+
+
+
